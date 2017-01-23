@@ -36,6 +36,10 @@ $navbar-default-bg: #e8e8e8;
 .btn-xlarge{
   font-size: 1.7em;
 }
+.article-meta-details{
+border-top: 1px solid #eaeaea;
+margin-top: 15px;
+}
 .article-actions{
   border-top: 1px solid #eaeaea;
   padding-top: 5px;
@@ -50,7 +54,7 @@ $navbar-default-bg: #e8e8e8;
 .article-body{
   border-top: 1px solid #eaeaea;
   padding-top: 15px;
-  padding-bottom: 15px; 
+  padding-bottom: 15px;
 }
 .footer{
   margin-top: 45px;
